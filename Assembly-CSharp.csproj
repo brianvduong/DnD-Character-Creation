@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\button.cs" />
     <Compile Include="Assets\Scripts\d6.cs" />
+    <Compile Include="Assets\Scripts\GameJson.cs" />
     <Compile Include="Assets\Scripts\PersistantManagerScript.cs" />
     <Compile Include="Assets\Scripts\playable.cs" />
     <Compile Include="Assets\Scripts\SceneManagerScript.cs" />
