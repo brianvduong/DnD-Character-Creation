@@ -16,6 +16,7 @@ public class PersistantManagerScript : MonoBehaviour
     public int ArmorClass;
     public int Walking, Running, JumpHeight;
     public List<string> ItemList;
+    public string JSON;
 
     private void Awake()
     {
